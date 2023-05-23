@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212902730047",
+    "project_id": "hasan-eke",
+    "storage_bucket": "hasan-eke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212902730047:android:516d873dbeffc68a455b8a",
+        "android_client_info": {
+          "package_name": "com.hasaneke.hasaneke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212902730047-4vvcp7ut507nprl9d5neu1b1n48pu39u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkknkzpvf3NWMYNwGXY_rXH70JTwb9vUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212902730047-4vvcp7ut507nprl9d5neu1b1n48pu39u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212902730047-ob1ligohtjvsubr358c1pjmnee56u7dk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasaneke.hasaneke"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
